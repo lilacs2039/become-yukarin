@@ -1,5 +1,5 @@
 numpy
-cupy
+# cupy
 chainer
 librosa
 pysptk
@@ -7,3 +7,5 @@ pyworld
 fastdtw
 matplotlib
 chainerui
+tqdm
+
